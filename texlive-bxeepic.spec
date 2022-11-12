@@ -5,8 +5,8 @@ Summary:	Eepic facilities using pict2e
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bxeepic
 License:	OTHER-FREE
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxeepic.r30559.tar.xz
-Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxeepic.doc.r30559.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxeepic.r%{version}.tar.xz
+Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxeepic.doc.r%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
