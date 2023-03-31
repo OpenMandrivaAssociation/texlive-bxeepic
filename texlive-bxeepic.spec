@@ -1,6 +1,6 @@
 Name:		texlive-bxeepic
 Version:	30559
-Release:	1
+Release:	2
 Summary:	Eepic facilities using pict2e
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bxeepic
