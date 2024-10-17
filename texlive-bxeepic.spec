@@ -3,7 +3,7 @@ Version:	30559
 Release:	2
 Summary:	Eepic facilities using pict2e
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bxeepic
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bxeepic
 License:	OTHER-FREE
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxeepic.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxeepic.doc.r%{version}.tar.xz
